@@ -42,7 +42,7 @@ Wait for infra nodes to become ready.
 
 ## (3) Deploy ODF to Cluster using ACM Policy
 
-Deploy ODF Policy to ACM with ArgoCD deployed.
+Deploy ODF Policy to ACM with Cluster-Scoped ArgoCD deployed.
 
 ```bash
 git clone https://github.com/eformat/odf-policy.git
